@@ -22,7 +22,7 @@ import App from './App.vue'
 import {createPinia} from 'pinia';
 
 // Import page components that will be used in the routing system
-import HomePage from './pages/HomePage.vue';
+import HomePage from './pages/Homepage.vue';
 import CoursesPage from './pages/CoursesPage.vue';
 import NewsPage from './pages/NewsPage.vue';
 import RegisterPage from './pages/RegisterPage.vue';
