@@ -6,7 +6,7 @@
 
   // Import the BannerComponent from the components folder so we can use it in this file
   // import BannerComponent from './components/BannerComponent.vue';
-  import NavbarComponent from './components/NavbarComponent.vue';
+  import NavbarComponent from './components/NavBarComponent.vue';
   
   import {useGlobalStore} from './stores/global';
 
